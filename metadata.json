@@ -1,0 +1,6 @@
+{
+  "name": "Study Planner",
+  "description": "A comprehensive and user-friendly student study planner, featuring daily, weekly, and monthly tracking, task priority management, goal setting, notes, custom statistics, a customizable Pomodoro timer, and an optional dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
